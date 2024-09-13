@@ -1,3 +1,5 @@
+# for testing functions
+
 from slothstats.slothstats import SlothstatsDownloader
 from sleeper.sleeper import get_nfl_state
 
